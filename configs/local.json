@@ -1,0 +1,4 @@
+{
+  "httpPort": 8080,
+  "bstSourceFilePath": "./configs/bst.json"
+}
